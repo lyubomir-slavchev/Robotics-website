@@ -1,0 +1,10 @@
+.map-header{
+    min-height: 800px;
+    width: 100%;
+    background-image: url(../Images/bgpar.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 21%;
+}
